@@ -1,3 +1,4 @@
+# NOT MY CODE
 # The best wordpress tutorial ive done.
 # by Brad Schiff
 A wordpress tutorial i did which pretty much covers everything you need to know to be a wordpress developer, could'nt recommend this enough go to check it out https://www.udemy.com/become-a-wordpress-developer-php-javascript DO IT !
